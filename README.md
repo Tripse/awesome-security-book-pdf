@@ -20,7 +20,7 @@ leadlifesec：2022 年基于网络安全赛事信息安全管理与评估、网�
 
 ![LEADLIFESEC](https://security-note.oss-cn-hangzhou.aliyuncs.com/LEADLIFESEC.jpg)
 
-![WeChat Image_20230606211833](https://security-note.oss-cn-hangzhou.aliyuncs.com/WeChat Image_20230606211833.jpg)
+![Wchat_knowledge](https://security-note.oss-cn-hangzhou.aliyuncs.com/Wchat_knowledge.jpg)
 
 
 
@@ -101,5 +101,5 @@ Awesome-security-book-pdf/
 
 收集不易，讨个烟钱
 
-![微信赞赏码](C:\Users\leadlife\Desktop\常用素材\二维码类\微信赞赏码.jpg)
+![微信赞赏码](https://security-note.oss-cn-hangzhou.aliyuncs.com/微信赞赏码.jpg)
 
