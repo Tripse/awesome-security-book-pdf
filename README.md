@@ -15,22 +15,6 @@
 链接：https://pan.baidu.com/s/1DlIAZuShCJNbM4-eAhlYpw?pwd=life 
 提取码：life 
 
-## 关于知识星球
-
-> 打一个小广告，有兴趣师傅们可以看看，文件树汇总在下方
-
-leadlifesec：2022 年基于网络安全赛事信息安全管理与评估、网络搭建与应用两大国家高职技能大赛建立，并从技能赛事中朝着各个方向精炼发展，为广大安全人员提供精华知识集
-
-![LEADLIFESEC](https://security-note.oss-cn-hangzhou.aliyuncs.com/LEADLIFESEC.jpg)
-
-![Wchat_knowledge](https://security-note.oss-cn-hangzhou.aliyuncs.com/Wchat_knowledge.jpg)
-
-
-
-## 关于微信公众号
-
-![微信公众二维码](https://security-note.oss-cn-hangzhou.aliyuncs.com/微信公众二维码.jpg)
-
 ## 文件树
 
 > use unix tree file
